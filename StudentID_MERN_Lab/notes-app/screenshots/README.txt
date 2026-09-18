@@ -1,1 +1,4 @@
-Replace this file with ui-preview.png and delete-action.png before zipping.
+MERN LAB ASSIGNMENT screenshots
+NAME - PALAKSH GHILDIYAL
+ROLL NO - 2026204015
+git hub repo - https://github.com/Palakshghildiyal17/MERN-lab-assignment
