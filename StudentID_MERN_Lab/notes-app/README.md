@@ -9,7 +9,7 @@ without a page refresh.
 | Name | Palaksh Ghildiyal|
 | Student ID | 2026204015 |
 | Course | M.tech PDM |
-| GitHub repository | *paste your repository link* |
+| GitHub repository | https://github.com/Palakshghildiyal17/MERN-lab-assignment |
 
 ## Stack
 
