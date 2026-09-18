@@ -8,10 +8,10 @@ without a page refresh.
 
 | Field | Value |
 | --- | --- |
-| Name | *your name* |
-| Student ID | *your student ID* |
-| Course / Section | *your course and section* |
-| GitHub repository | *paste your repository link* |
+| Name | PALAKSH GHILDIYAL |
+| Student ID | 2026204015 |
+| Course | M.tech PDM |
+| GitHub repository | (https://github.com/Palakshghildiyal17/MERN-lab-assignment) |
 
 ## Stack
 
